@@ -1,2 +1,2 @@
 ### Form of use
-> **./PortScan.sh 192.168.**
+> **./PortScan.sh 192.168.******
