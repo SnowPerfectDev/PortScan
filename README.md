@@ -1,3 +1,3 @@
 ### Form of use
 ```bash 
-$ ./PortScan.sh IP
+$ ./PortScan.sh 8.8.8.8
