@@ -16,6 +16,6 @@
 * closed/filtered
 > closed/filtered – Porta filtrada ou fechada, mas o nmap não conseguiu estabelecer o estado.
 ***
-*** Form of use ***
+* Form of use
 ```bash 
 $ ./PortScan.sh 8.8.8.8
