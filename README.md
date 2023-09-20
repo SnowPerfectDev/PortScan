@@ -1,5 +1,5 @@
 > open – Uma aplicação está escutando conexões nesta porta.
-
+#
 * Closed
 > closed – Pacote recebido, mas nenhuma aplicação escutando na porta.
 
