@@ -1,8 +1,10 @@
+* Open
 > open – Uma aplicação está escutando conexões nesta porta.
 #
 * Closed
 > closed – Pacote recebido, mas nenhuma aplicação escutando na porta.
-
+#
+* filtered
 > filtered – Pacote não recebido, e estado não pôde ser estabelecido. Pacotes podem estar sendo descartados por filtros.
 
 > unfiltered – Pacote recebido, mas estado não pôde ser estabelecido.
