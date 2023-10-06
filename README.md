@@ -1,3 +1,5 @@
+Este script verifica se a porta 5555 (usada pelo ADB - Android Debug Bridge) está rodando em um determinado endereço IP.
+***
 * open
 > open – Uma aplicação está escutando conexões nesta porta.
 #
